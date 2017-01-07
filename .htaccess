@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule blank.html$ code.php
